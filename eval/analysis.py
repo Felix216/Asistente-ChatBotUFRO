@@ -46,5 +46,5 @@ plt.tight_layout()
 plt.savefig("eval/cost_tokens_deepseek.png")
 plt.show()
 
-print("\n💡 Observaciones:")
+print("\nObservaciones:")
 print("- Latencia promedio, tokens y costo calculados únicamente para DeepSeek.")
