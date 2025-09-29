@@ -1,0 +1,105 @@
+question,pred,gold,em,cos_sim,citations_pct,latency_s,tokens,estimated_cost_usd,OD,hallucination
+¿Cuál es el procedimiento para la matrícula de cursos en la universidad?,"No tengo suficiente información en las fuentes proporcionadas para responder sobre el procedimiento específico de matrícula de cursos. Los documentos disponibles contienen información sobre ciclos formativos, actividades curriculares, reglamentos de carrera y aspectos de admisión, pero no detallan el proceso concreto de matrícula.
+Fuentes consultadas:
+- data/raw\ReglamentodeRegimendeEstudios__2023_.pdf
+- data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+- data/raw\03-resex-2022326308-obligaciones-financieras.pdf
+- data/raw\02-Res-Ex-3542-2022-Reglamento-de-Admision-para-carreras-de-Pregrado.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",El estudiante debe registrarse en línea dentro del periodo de matrícula y cumplir los requisitos académicos.,0,0.5781846046447754,0,11.137814998626709,67,0.000134,0,1
+¿Qué requisitos deben cumplir los estudiantes para mantener la condición de regular?,"No tengo suficiente información en el contexto proporcionado para responder sobre los requisitos específicos que deben cumplir los estudiantes para mantener la condición de regular.
+Las fuentes disponibles mencionan a los ""estudiantes regulares"" en el contexto de ajustes curriculares (Artículo 8º), pero no especifican los requisitos para mantener dicha condición.
+Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Mantener un promedio mínimo y no acumular asignaturas reprobadas fuera del límite permitido.,0,0.42696020007133484,0,7.591598987579346,66,0.00013199999999999998,0,1
+¿Cuáles son las causales de suspensión temporal de un estudiante?,"No tengo suficiente información en el contexto proporcionado para determinar las causales específicas de suspensión temporal de un estudiante. Los documentos mencionan la suspensión como sanción (Artículo 43o) pero no especifican las causales que la originan.
+Fuente: data/raw\04-Reglamento-Convivencia-rex.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Incumplimiento de normativas, conducta inapropiada o solicitud administrativa justificada.",0,0.3873225450515747,0,6.789783477783203,52,0.000104,0,1
+¿Qué sanciones se aplican por plagio o copia en evaluaciones?,"No tengo suficiente información en el contexto proporcionado para responder específicamente sobre sanciones por plagio o copia en evaluaciones. Los documentos disponibles mencionan sanciones generales pero no especifican casos particulares como plagio.
+Fuente: data/raw\04-Reglamento-Convivencia-rex.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","El estudiante puede recibir amonestación, suspensión o anulación de la evaluación según la gravedad.",0,0.4008318781852722,0,8.515297412872314,48,9.6e-05,0,1
+¿Cómo se solicita una equivalencia de asignaturas de otra institución?,"Según la información proporcionada, para solicitar la convalidación de estudios (equivalencia de asignaturas) de otra institución se debe:
+1. Presentar una solicitud escrita en la Dirección de Pregrado de la Facultad o autoridad equivalente
+2. Realizar el trámite inmediatamente después de estar matriculado en la carrera de destino
+3. Cumplir con la fecha indicada en el calendario académico
+Este procedimiento aplica para estudiantes que han cursado estudios en otras instituciones de educación superior acreditadas y permite determinar la equivalencia de Resultados de Aprendizaje entre las actividades curriculares.
+(Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf y data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf)
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Presentando la solicitud con certificados oficiales y plan de estudios para revisión por la universidad.,0,0.6263881921768188,0,14.822595357894897,105,0.00020999999999999998,0,1
+¿Cuál es el procedimiento para cambiar de carrera dentro de la universidad?,"No tengo suficiente información en el contexto proporcionado para responder sobre el procedimiento para cambiar de carrera dentro de la universidad. Los documentos disponibles solo contienen información sobre admisión especial por traslado desde otras instituciones de educación superior, pero no especifican el proceso para cambios internos de carrera.
+Fuentes consultadas:
+- data/raw\02-Res-Ex-3542-2022-Reglamento-de-Admision-para-carreras-de-Pregrado.pdf
+- data/raw\ReglamentodeRegimendeEstudios__2023_.pdf
+- data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Se debe solicitar el cambio en la oficina de registro académico y cumplir los requisitos del plan de estudios.,0,0.6003162264823914,0,9.87686538696289,70,0.00014,0,1
+¿Qué condiciones se requieren para optar a becas o ayudas económicas?,"No tengo suficiente información en las fuentes proporcionadas para responder sobre las condiciones requeridas para optar a becas o ayudas económicas.
+Las fuentes disponibles contienen información sobre:
+- Procedimientos disciplinarios y el Tribunal de Convivencia Estudiantil (Artículos 26-31)
+- Derechos de denunciantes y procedimientos de investigación
+- Obligaciones financieras de los estudiantes (Artículos 20-25)
+- Medidas alternativas a sanciones disciplinarias
+Sin embargo, no se mencionan específicamente los requisitos para becas o ayudas económicas en los documentos proporcionados.
+Fuentes: data/raw\04-Reglamento-Convivencia-rex.pdf, data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf, data/raw\03-resex-2022326308-obligaciones-financieras.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Cumplir con el promedio mínimo, presentar la documentación solicitada y demostrar necesidad económica.",0,0.5651199817657471,0,12.633760929107666,95,0.00018999999999999998,0,1
+¿Cuál es la normativa sobre asistencia mínima a clases y evaluaciones?,"No tengo suficiente información en las fuentes proporcionadas para responder sobre la normativa de asistencia mínima a clases y evaluaciones. Los documentos del contexto mencionan aspectos sobre evaluaciones parciales, calificaciones y conducta en evaluaciones, pero no especifican requisitos de asistencia mínima.
+Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf, data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf, data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Se requiere un mínimo de asistencia del 75% y participación en evaluaciones parciales y finales.,0,0.6161205768585205,0,14.055206537246704,59,0.000118,0,1
+¿Cómo se realiza el proceso de apelación de calificaciones?,"No tengo suficiente información en las fuentes proporcionadas para responder sobre el proceso específico de apelación de calificaciones. Los documentos disponibles contienen información sobre regímenes de estudio, convivencia universitaria y obligaciones financieras, pero no incluyen detalles sobre el procedimiento de apelación de calificaciones.
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","El estudiante presenta una solicitud escrita dentro del plazo estipulado, revisada por la comisión académica.",0,0.5723158121109009,0,6.847119569778442,57,0.00011399999999999999,0,1
+¿Qué derechos tienen los estudiantes frente a la seguridad y salud en el campus?,"No tengo suficiente información en el contexto proporcionado para responder sobre los derechos de los estudiantes frente a la seguridad y salud en el campus.
+Las fuentes disponibles solo contienen información sobre:
+- Medidas alternativas en procedimientos disciplinarios
+- Derechos de estudiantes denunciantes y denunciados
+- Procedimientos aplicables según estamentos
+- Definiciones de acoso y maltrato
+- Regulaciones sobre planes de estudio y programas de asignatura
+(Fuente: data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf, data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf)
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Acceder a instalaciones seguras, recibir información sobre riesgos y protocolos de emergencia.",0,0.5141589641571045,0,11.352143287658691,83,0.000166,0,1
+¿Cuál es el reglamento sobre uso de bibliotecas y recursos digitales?,"No tengo suficiente información en el contexto proporcionado para responder sobre el reglamento de uso de bibliotecas y recursos digitales. El contexto solo contiene información sobre continuidad de estudios, calificaciones, exámenes y homologación de asignaturas.
+Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf y data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Los estudiantes deben registrar su acceso, respetar los horarios y cuidar los materiales prestados.",0,0.5118238925933838,0,9.857997417449951,53,0.000106,0,1
+¿Qué procedimiento se sigue para la titulación de los estudiantes?,"No tengo suficiente información en el contexto proporcionado para responder sobre el procedimiento específico para la titulación de estudiantes.
+Las fuentes disponibles (Reglamento de Régimen de Estudio de Pregrado y Reglamento de Convivencia Universitaria) mencionan aspectos relacionados con planes de estudio, asignaturas y procedimientos disciplinarios, pero no contienen información detallada sobre los pasos o requisitos para el proceso de titulación.
+Fuentes consultadas:
+- data/raw\ReglamentodeRegimendeEstudios__2023_.pdf
+- data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf  
+- data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Cumplir con créditos requeridos, presentar memoria o tesis y aprobar exámenes finales.",0,0.5306097865104675,0,10.148285388946533,82,0.000164,0,1
+¿Cómo se regula la participación de estudiantes en actividades extracurriculares?,"No tengo suficiente información en el contexto proporcionado para responder sobre la regulación de actividades extracurriculares. El contexto solo aborda actividades curriculares, programas de Minor y homologación de estudios, pero no menciona específicamente actividades extracurriculares.
+Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf y data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",A través de inscripciones formales y cumpliendo los requisitos de cada actividad.,0,0.5281403064727783,0,10.246901988983154,53,0.000106,0,1
+¿Qué reglas existen sobre conducta y disciplina en la universidad?,"Según el reglamento de convivencia universitaria:
+**Obligaciones estudiantiles** incluyen:
+- Privilegiar el uso del derecho de reclamo o petición sobre medidas que alteren la convivencia
+- Hacer uso responsable y autorizado de bienes y espacios universitarios
+- Mantener una conducta y principios éticos que prestigien al estudiantado y la Universidad
+**Faltas** se clasifican en:
+- **Muy graves**: agresión física/psicológica, apropiación indebida de bienes, adulteración de documentos, plagio, ocupación indebida de espacios, suplantación, tráfico de drogas, entre otras (Artículo 80)
+- **Graves**: consumo de alcohol en espacios no autorizados, permanecer en estado de ebriedad en el campus (Artículo 90)
+Las faltas se juzgan y sancionan según el procedimiento establecido en el reglamento (Artículo 70).
+Fuente: data/raw\04-Reglamento-Convivencia-rex.pdf y data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Los estudiantes deben respetar normas de convivencia, no incurrir en faltas graves y cumplir el reglamento interno.",0,0.5780746936798096,0,16.26477026939392,131,0.00026199999999999997,0,1
+¿Cuál es la política sobre extensión de plazos de entrega de trabajos?,"No tengo suficiente información en los documentos proporcionados para responder sobre políticas de extensión de plazos de entrega de trabajos.
+Las fuentes consultadas contienen información sobre:
+- Procesos de admisión especial (Fuente: data/raw\02-Res-Ex-3542-2022-Reglamento-de-Admision-para-carreras-de-Pregrado.pdf)
+- Reglamento de convivencia universitaria (Fuente: data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf)  
+- Reglamento de régimen de estudio de pregrado (Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf y data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf)
+Pero ninguna de estas fuentes aborda específicamente políticas sobre extensiones de plazos para trabajos académicos.
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Se otorgan únicamente con justificación válida y aprobación del profesor o coordinación académica.,0,0.5350110530853271,0,12.358968734741211,81,0.00016199999999999998,0,1
+¿Cómo se realiza la convalidación de asignaturas cursadas en otra universidad?,"No tengo suficiente información en el contexto proporcionado para responder sobre el proceso de convalidación de asignaturas cursadas en otra universidad. Las fuentes disponibles solo contienen definiciones de tipos de asignaturas, regulaciones sobre programas de asignatura y sistemas de admisión especial, pero no incluyen información específica sobre convalidaciones.
+Fuente: data/raw\ReglamentodeRegimendeEstudios__2023_.pdf, data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf, data/raw\02-Res-Ex-3542-2022-Reglamento-de-Admision-para-carreras-de-Pregrado.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Presentando los certificados oficiales y planes de estudio para revisión por la autoridad académica.,0,0.5247550010681152,0,10.9647958278656,66,0.00013199999999999998,0,1
+¿Cuál es el procedimiento para solicitar prórrogas de exámenes o evaluaciones?,"No tengo suficiente información en el contexto proporcionado sobre el procedimiento específico para solicitar prórrogas de exámenes o evaluaciones.
+Las fuentes disponibles mencionan aspectos relacionados con evaluaciones (Artículo 31° y 32° sobre tipos de evaluación y plazos para dar a conocer resultados), pero no contienen información sobre procedimientos de prórroga.
+**Fuentes consultadas:**
+- data/raw\ReglamentodeRegimendeEstudios__2023_.pdf
+- data/raw\01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Presentar una solicitud formal con justificación antes de la fecha del examen para aprobación.,0,0.5228588581085205,0,11.195025205612183,70,0.00014,0,1
+¿Qué normativa regula el uso de laboratorios y equipos de investigación?,"No tengo suficiente información en el contexto proporcionado para responder sobre la normativa específica que regula el uso de laboratorios y equipos de investigación.
+Las fuentes disponibles se refieren principalmente al Reglamento de Convivencia Universitaria, procesos disciplinarios estudiantiles, derechos de denunciantes, principios de procedimiento y definiciones de conductas inapropiadas, pero no contienen disposiciones específicas sobre laboratorios y equipos de investigación.
+Fuente: data/raw\04-Reglamento-Convivencia-rex.pdf, data/raw\REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.","Los estudiantes deben cumplir las reglas de seguridad, horarios y autorización de los responsables de laboratorio.",0,0.6476918458938599,0,11.10085940361023,77,0.000154,0,1
+¿Cómo se maneja la confidencialidad de información académica y personal?,"No tengo suficiente información en el contexto proporcionado para responder sobre cómo se maneja la confidencialidad de información académica y personal. Los documentos compartidos tratan sobre medidas alternativas en sanciones estudiantiles, tipos de acoso y maltrato, procedimientos de denuncia, y justificación de inasistencias, pero no incluyen disposiciones específicas sobre confidencialidad de datos.
+Fuente: REGLAMENTO-DE-CONVIVENCIA-UNIVERSITARIA.pdf, ReglamentodeRegimendeEstudios__2023_.pdf, 01-Reglamento-de-Regimen-de-Estudios-2023.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Solo el personal autorizado puede acceder y divulgar información académica según la normativa de protección de datos.,0,0.6729133129119873,0,9.650960445404053,70,0.00014,0,1
+¿Qué pasos deben seguir los estudiantes para solicitar certificados académicos oficiales?,"No tengo suficiente información en el contexto proporcionado para responder sobre los pasos específicos que deben seguir los estudiantes para solicitar certificados académicos oficiales.
+Las fuentes disponibles mencionan que los certificados de título y diplomas se entregarán solo cuando el estudiante acredite estar al día en el pago de sus aranceles y no tener situaciones pendientes con Biblioteca, Dirección de Asuntos Estudiantiles u otras unidades (Artículo 21°), pero no detallan el procedimiento de solicitud.
+Fuente: data/raw\03-resex-2022326308-obligaciones-financieras.pdf
+⚠️ Nota: Algunas partes de la respuesta podrían no estar respaldadas por los documentos.",Presentar la solicitud en la oficina de registro académico con los documentos requeridos y pagar arancel correspondiente.,0,0.5687246322631836,0,8.973649740219116,90,0.00017999999999999998,0,1

@@ -1,0 +1,19 @@
+query,response,latency_s,tokens,estimated_cost_usd
+¿Qué sanciones hay por plagio?,"Según el reglamento proporcionado, no se menciona específicamente el plagio. Sin embargo, el artículo 45° establece que las faltas muy graves serán sancionadas con suspensión o expulsión, las faltas graves con suspensión, y las faltas leves con amonestación verbal o escrita [Fuente: ARTÍCULO 45o].",6.578420162200928,98,0.00019600000000000002
+¿Cuáles son los requisitos para inscribirse en ramos?,"Según el contexto proporcionado, no se especifican los requisitos generales para inscribirse en ramos. La información disponible se enfoca principalmente en:
+- Requisitos financieros para rendir exámenes de grado/título (Artículo 20°)
+- Requisitos para la entrega de títulos y diplomas (Artículo 21°)
+- Requisitos del idioma inglés como actividad curricular (Artículos 27° y 28°)
+- Normas sobre evaluación y calificación (Artículos 31° y 32°)
+Para conocer los requisitos específicos de inscripción en ramos, sería necesario consultar otras secciones del reglamento universitario no incluidas en el contexto proporcionado.
+Fuente: Artículos 20°, 21°, 27°, 28°, 31° y 32° del Reglamento de Régimen de Estudios",12.516626834869385,218,0.000436
+¿Qué documentación se necesita para la matrícula?,"Según el contexto proporcionado, para la postulación al Sistema de Admisión Especial se requiere presentar:
+- Formulario de postulación
+- Certificado de Título o de Grado Académico
+- Certificado de concentración de notas con escala de notas vigente
+- Certificado de duración de la carrera de origen
+- Certificado de otros antecedentes académicos
+- Fotocopia de documentos de identificación
+- Fotografía tamaño carné
+- Pago del impuesto de postulación
+Fuente: Artículo 40º del Reglamento de Admisión para carreras de Pregrado",13.0933518409729,153,0.000306
