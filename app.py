@@ -3,11 +3,13 @@ import json
 from sentence_transformers import SentenceTransformer
 from rag.pipeline import run_pipeline
 from providers.deepseek import DeepSeekProvider
+from providers.chatgpt import ChatGPTProvider
 
 txt_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 
 PROVIDERS = {
-    "deepseek": DeepSeekProvider(model="deepseek-chat")
+    "deepseek": DeepSeekProvider(model="deepseek-chat"),
+    "chatgpt": ChatGPTProvider(model="openai/gpt-4.1-mini")
 }
 
 def main():
